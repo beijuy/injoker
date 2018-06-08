@@ -3,7 +3,7 @@ int main()
 {
 	using namespace std;
 	char n;
-	cout<<"ÊäÈëÒ»¸ö×ÖÄ¸"<<endl;
+	cout<<"Bigger and Smaller"<<endl;
 	cin>>n;
 	if('A'<=n&&n<='Z')
 		n=n+32;
